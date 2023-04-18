@@ -1,0 +1,24 @@
+апр. 18, 2023 2:58:03 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Первоначальный массив => [68, 56, 47, 96, 66, 76, 80, 75, 6, 61, 11]
+апр. 18, 2023 2:58:03 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 1-ого прохода по массиву => [56, 47, 68, 66, 76, 80, 75, 6, 61, 11, 96]
+апр. 18, 2023 2:58:03 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 2-ого прохода по массиву => [47, 56, 66, 68, 76, 75, 6, 61, 11, 80, 96]
+апр. 18, 2023 2:58:03 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 3-ого прохода по массиву => [47, 56, 66, 68, 75, 6, 61, 11, 76, 80, 96]
+апр. 18, 2023 2:58:03 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 4-ого прохода по массиву => [47, 56, 66, 68, 6, 61, 11, 75, 76, 80, 96]
+апр. 18, 2023 2:58:03 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 5-ого прохода по массиву => [47, 56, 66, 6, 61, 11, 68, 75, 76, 80, 96]
+апр. 18, 2023 2:58:04 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 6-ого прохода по массиву => [47, 56, 6, 61, 11, 66, 68, 75, 76, 80, 96]
+апр. 18, 2023 2:58:04 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 7-ого прохода по массиву => [47, 6, 56, 11, 61, 66, 68, 75, 76, 80, 96]
+апр. 18, 2023 2:58:04 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 8-ого прохода по массиву => [6, 47, 11, 56, 61, 66, 68, 75, 76, 80, 96]
+апр. 18, 2023 2:58:04 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 9-ого прохода по массиву => [6, 11, 47, 56, 61, 66, 68, 75, 76, 80, 96]
+апр. 18, 2023 2:58:04 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Результат 10-ого прохода по массиву => [6, 11, 47, 56, 61, 66, 68, 75, 76, 80, 96]
+апр. 18, 2023 2:58:04 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task4_2javaHW main
+INFO: Отсортитрованный массив => [6, 11, 47, 56, 61, 66, 68, 75, 76, 80, 96]

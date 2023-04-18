@@ -1,0 +1,8 @@
+апр. 18, 2023 2:35:59 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task2_2JavaHW readFromFile
+INFO: Информация считана из файла.
+апр. 18, 2023 2:35:59 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task2_2JavaHW writeToFile
+INFO: Информация записана в файл.
+апр. 18, 2023 2:36:46 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task2_2JavaHW readFromFile
+INFO: Информация считана из файла.
+апр. 18, 2023 2:36:46 PM HomeworksAdd.HWJavaAdd.HWLesson2JavaAdd.Task2_2JavaHW writeToFile
+INFO: Информация записана в файл.
